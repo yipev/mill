@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_example.dir/tests/example.c.o  -o tests/example -rdynamic libmill.a -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_unix.dir/tests/unix.c.o  -o tests/unix -rdynamic libmill.a -lrt 

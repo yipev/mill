@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_sleep.dir/tests/sleep.c.o  -o tests/sleep -rdynamic libmill.a -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_udp.dir/tests/udp.c.o  -o tests/udp -rdynamic libmill.a -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_fdwait.dir/tests/fdwait.c.o  -o tests/fdwait -rdynamic libmill.a -lrt 

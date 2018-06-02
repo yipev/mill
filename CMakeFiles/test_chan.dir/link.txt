@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_chan.dir/tests/chan.c.o  -o tests/chan -rdynamic libmill.a -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_signals.dir/tests/signals.c.o  -o tests/signals -rdynamic libmill.a -lrt 

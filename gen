@@ -1,0 +1,110 @@
+Scanning dependencies of target mill
+[  1%] Building C object CMakeFiles/mill.dir/ssl.c.o
+[  2%] Building C object CMakeFiles/mill.dir/mfork.c.o
+[  4%] Building C object CMakeFiles/mill.dir/cr.c.o
+[  5%] Building C object CMakeFiles/mill.dir/unix.c.o
+[  7%] Building C object CMakeFiles/mill.dir/tcp.c.o
+[  8%] Building C object CMakeFiles/mill.dir/chan.c.o
+[ 10%] Building C object CMakeFiles/mill.dir/slist.c.o
+[ 11%] Building C object CMakeFiles/mill.dir/poller.c.o
+[ 12%] Building C object CMakeFiles/mill.dir/list.c.o
+[ 14%] Building C object CMakeFiles/mill.dir/file.c.o
+[ 15%] Building C object CMakeFiles/mill.dir/debug.c.o
+[ 17%] Building C object CMakeFiles/mill.dir/timer.c.o
+[ 18%] Building C object CMakeFiles/mill.dir/udp.c.o
+[ 20%] Building C object CMakeFiles/mill.dir/ip.c.o
+[ 21%] Building C object CMakeFiles/mill.dir/stack.c.o
+[ 22%] Building C object CMakeFiles/mill.dir/dns/dns.c.o
+[ 24%] Linking C static library libmill.a
+[ 24%] Built target mill
+Scanning dependencies of target test_ip
+[ 25%] Building C object CMakeFiles/test_ip.dir/tests/ip.c.o
+[ 27%] Linking C executable tests/ip
+[ 27%] Built target test_ip
+Scanning dependencies of target mill_s
+[ 28%] Building C object CMakeFiles/mill_s.dir/ssl.c.o
+[ 30%] Building C object CMakeFiles/mill_s.dir/mfork.c.o
+[ 31%] Building C object CMakeFiles/mill_s.dir/cr.c.o
+[ 32%] Building C object CMakeFiles/mill_s.dir/unix.c.o
+[ 34%] Building C object CMakeFiles/mill_s.dir/tcp.c.o
+[ 35%] Building C object CMakeFiles/mill_s.dir/chan.c.o
+[ 37%] Building C object CMakeFiles/mill_s.dir/slist.c.o
+[ 38%] Building C object CMakeFiles/mill_s.dir/poller.c.o
+[ 40%] Building C object CMakeFiles/mill_s.dir/list.c.o
+[ 41%] Building C object CMakeFiles/mill_s.dir/file.c.o
+[ 42%] Building C object CMakeFiles/mill_s.dir/debug.c.o
+[ 44%] Building C object CMakeFiles/mill_s.dir/timer.c.o
+[ 45%] Building C object CMakeFiles/mill_s.dir/udp.c.o
+[ 47%] Building C object CMakeFiles/mill_s.dir/ip.c.o
+[ 48%] Building C object CMakeFiles/mill_s.dir/stack.c.o
+[ 50%] Building C object CMakeFiles/mill_s.dir/dns/dns.c.o
+[ 51%] Linking C shared library libmill.so
+[ 51%] Built target mill_s
+Scanning dependencies of target test_mfork2
+[ 52%] Building C object CMakeFiles/test_mfork2.dir/tests/mfork2.c.o
+[ 54%] Linking C executable tests/mfork2
+[ 54%] Built target test_mfork2
+Scanning dependencies of target test_cls
+[ 55%] Building C object CMakeFiles/test_cls.dir/tests/cls.c.o
+[ 57%] Linking C executable tests/cls
+[ 57%] Built target test_cls
+Scanning dependencies of target test_go
+[ 58%] Building C object CMakeFiles/test_go.dir/tests/go.c.o
+[ 60%] Linking C executable tests/go
+[ 60%] Built target test_go
+Scanning dependencies of target test_unix
+[ 61%] Building C object CMakeFiles/test_unix.dir/tests/unix.c.o
+[ 62%] Linking C executable tests/unix
+[ 62%] Built target test_unix
+Scanning dependencies of target test_choose
+[ 64%] Building C object CMakeFiles/test_choose.dir/tests/choose.c.o
+[ 65%] Linking C executable tests/choose
+[ 65%] Built target test_choose
+Scanning dependencies of target test_ssl
+[ 67%] Building C object CMakeFiles/test_ssl.dir/tests/ssl.c.o
+[ 68%] Linking C executable tests/ssl
+[ 68%] Built target test_ssl
+Scanning dependencies of target test_tcp
+[ 70%] Building C object CMakeFiles/test_tcp.dir/tests/tcp.c.o
+[ 71%] Linking C executable tests/tcp
+[ 71%] Built target test_tcp
+Scanning dependencies of target test_chan
+[ 72%] Building C object CMakeFiles/test_chan.dir/tests/chan.c.o
+[ 74%] Linking C executable tests/chan
+[ 74%] Built target test_chan
+Scanning dependencies of target test_mfork3
+[ 75%] Building C object CMakeFiles/test_mfork3.dir/tests/mfork3.c.o
+[ 77%] Linking C executable tests/mfork3
+[ 77%] Built target test_mfork3
+Scanning dependencies of target test_overload
+[ 78%] Building C object CMakeFiles/test_overload.dir/tests/overload.c.o
+[ 80%] Linking C executable tests/overload
+[ 80%] Built target test_overload
+Scanning dependencies of target test_file
+[ 81%] Building C object CMakeFiles/test_file.dir/tests/file.c.o
+[ 82%] Linking C executable tests/file
+[ 82%] Built target test_file
+Scanning dependencies of target test_fdwait
+[ 84%] Building C object CMakeFiles/test_fdwait.dir/tests/fdwait.c.o
+[ 85%] Linking C executable tests/fdwait
+[ 85%] Built target test_fdwait
+Scanning dependencies of target test_signals
+[ 87%] Building C object CMakeFiles/test_signals.dir/tests/signals.c.o
+[ 88%] Linking C executable tests/signals
+[ 88%] Built target test_signals
+Scanning dependencies of target test_example
+[ 90%] Building C object CMakeFiles/test_example.dir/tests/example.c.o
+[ 91%] Linking C executable tests/example
+[ 91%] Built target test_example
+Scanning dependencies of target test_mfork1
+[ 92%] Building C object CMakeFiles/test_mfork1.dir/tests/mfork1.c.o
+[ 94%] Linking C executable tests/mfork1
+[ 94%] Built target test_mfork1
+Scanning dependencies of target test_udp
+[ 95%] Building C object CMakeFiles/test_udp.dir/tests/udp.c.o
+[ 97%] Linking C executable tests/udp
+[ 97%] Built target test_udp
+Scanning dependencies of target test_sleep
+[ 98%] Building C object CMakeFiles/test_sleep.dir/tests/sleep.c.o
+[100%] Linking C executable tests/sleep
+[100%] Built target test_sleep

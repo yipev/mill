@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_tcp.dir/tests/tcp.c.o  -o tests/tcp -rdynamic libmill.a -lrt 

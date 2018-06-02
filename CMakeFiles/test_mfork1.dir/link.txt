@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_mfork1.dir/tests/mfork1.c.o  -o tests/mfork1 -rdynamic libmill.a -lrt 

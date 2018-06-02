@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libmill/libmill.h
+errno.h
+-
+setjmp.h
+-
+stddef.h
+-
+stdint.h
+-
+unistd.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+
+/home/predator/Documents/Project/temp/libmill/tests/overload.c
+assert.h
+-
+unistd.h
+-
+../libmill.h
+/home/predator/Documents/Project/temp/libmill/libmill.h
+

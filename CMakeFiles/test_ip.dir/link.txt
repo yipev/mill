@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_ip.dir/tests/ip.c.o  -o tests/ip -rdynamic libmill.a -lrt 

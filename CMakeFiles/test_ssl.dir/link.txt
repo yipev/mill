@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/test_ssl.dir/tests/ssl.c.o  -o tests/ssl -rdynamic libmill.a -lrt 
